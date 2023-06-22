@@ -1,0 +1,73 @@
+{
+    "autori": [
+        "lev Tolstoj",
+        "Franz Kafka",
+        "Alessandro Manzoni",
+        "Italo Calvino",
+        "Luigi Pirandello",
+        "Umberto Eco"
+    ],
+    "data": [
+        {
+            "autore": "Lev Tolstoj",
+            "data": "01/01/1869",
+            "ebook": true,
+            "genere": "Romanzo Storico",
+            "lettori": 1000,
+            "pagine": 1442,
+            "titolo": "Guerra e Pace "
+        },
+        {
+            "autore": "Franz Kafka",
+            "data": "01/01/1925",
+            "ebook": true,
+            "genere": "Romanzo",
+            "lettori": 50,
+            "pagine": 122,
+            "titolo": "Il Proccesso"
+        },
+        {
+            "autore": "Franz Kafka",
+            "data": "01/01/1915",
+            "ebook": false,
+            "genere": "Racconto",
+            "lettori": 189,
+            "pagine": 70,
+            "titolo": "La Metamorfosi"
+        },
+        {
+            "autore": "Alessandro Manzoni",
+            "data": "01/01/1827",
+            "ebook": false,
+            "genere": "Romanzo Storico",
+            "lettori": 1999,
+            "pagine": 711,
+            "titolo": "I Promessi Sposi"
+        },
+        {
+            "autore": "Italo Calvino",
+            "data": "01/01/1957",
+            "ebook": true,
+            "genere": "Romanzo",
+            "lettori": 500,
+            "pagine": 418,
+            "titolo": "Il Barone Rampante"
+        },
+        {
+            "autore": "Italo Calvino",
+            "data": "01/01/1947",
+            "ebook": true,
+            "genere": "Romanzo",
+            "lettori": 10000,
+            "pagine": 224,
+            "titolo": "Il sentiero dei nidi di Ragno"
+        }
+    ],
+    "generi": [
+        "Romanzo Storico",
+        "Romanzo",
+        "Racconto",
+        "Novella",
+        "Romanzo Epistolare"
+    ]
+}
